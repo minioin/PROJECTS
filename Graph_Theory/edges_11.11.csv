@@ -1,0 +1,97 @@
+6G,WG,100,east,E.Green Street
+WG,6G,100,west,E.Green Street
+MG,GG,100,east,W.Green Street
+GG,MG,100,west,W.Green Street
+4J,5J,100,east,E.John Street
+56,MN,20,north,S. Mathews Avenue
+MN,GN,100,east,S. Neveda Street
+GO,GN,100,south,S. Goodwin Avenue
+GN,GO,100,north,S. Goodwin Avenue
+GO,MO,100,west,W.Oregon Street
+MO,164,70,south,S. Mathews Avenue
+164,MN,30,north,S. Mathews Avenue
+MG,712,150,south,S. Mathews Avenue
+712,148,100,south,S. Mathews Avenue
+148,MO,50,south,S. Mathews Avenue
+GG,GO,300,south,S. Goodwin Avenue
+GO,GG,300,north,S. Goodwin Avenue
+MG,384,100,west,W.Green Street
+384,MG,100,east,W.Green Street
+384,WG,100,west,W.Green Street
+WG,384,100,east,W.Green Street
+WG,372,80,south,S.Wright Street
+372,WG,80,north,S.Wright Street
+372,382,20,south,S.Wright Street
+382,372,20,north,S.Wright Street
+382,WJ,20,south,S.Wright Street
+WJ,382,20,north,S.Wright Street
+WJ,320,0,south,S.Wright Street
+320,WJ,0,north,S.Wright Street
+334,WD,0,west,E.Daniel Street
+WD,334,0,east,E.Daniel Street
+WD,460,0,east,E.Daniel Street
+460,WD,0,west,E.Daniel Street
+446,WC,30,north,S.Wright Street
+462,446,60,north,S.Wright Street
+WA,462,30,north,S.Wright Street
+6A,WA,100,east,E.Armory Avenue
+6C,6A,120,south,S.6th Street
+WC,6C,100,west,E.Chalmers Street
+6D,6C,100,south,S.6th Street
+6D,716,30,east,E.Daniel Street
+716,317,40,east,E.Daniel Street
+317,WD,30,east,E.Daniel Street
+6J,6D,100,south,S.6th Street
+WJ,306,30,west,E.John Street
+306,304,40,west,E.John Street
+304,6J,30,west,E.John Street
+6G,6J,120,south,S.6th Street
+5G,6G,120,east,E.Green Street
+6G,5G,120,west,E.Green Street
+5G,5J,120,south,S.5th Street
+5J,5G,120,north,S.5th Street
+5J,5D,100,south,S.5th Street
+5D,5J,100,north,S.5th Street
+5J,6J,120,east,E.John Street
+5D,493,40,east,E.Daniel Street
+493,5D,40,west,E.Daniel Street
+493,6D,80,east,E.Daniel Street
+6D,493,80,west,E.Daniel Street
+5D,400,70,south,S.5th Street
+400,5D,70,north,S.5th Street
+400,490,10,south,S.5th Street
+490,400,10,north,S.5th Street
+490,5C,20,south,S.5th Street
+5C,490,20,north,S.5th Street
+5C,5A,120,south,S.5th Street
+5C,479,60,east,E.Chalmers Street
+479,5C,60,west,E.Chalmers Street
+479,6C,60,west,E.Chalmers Street
+6C,479,60,east,E.Chalmers Street
+5A,5C,120,north,S.5th Street
+5A,504,40,east,E.Armory Avenue
+504,5A,40,west,E.Armory Avenue
+504,6A,80,east,E.Armory Avenue
+6A,504,80,west,E.Armory Avenue
+5A,525,30,west,E.Armory Avenue
+525,5A,30,east,E.Armory Avenue
+525,530,40,west,E.Armory Avenue
+530,525,40,east,E.Armory Avenue
+530,4A,30,west,E.Armory Avenue
+4A,530,30,east,E.Armory Avenue
+4A,523,70,north,S.4th Street
+523,4A,70,south,S.4th Street
+523,4C,30,north,S.4th Street
+4C,523,30,south,S.4th Street
+4C,5C,100,east,E.Chalmers Street
+5C,4C,100,west,E.Chalmers Street
+4C,4D,100,north,S.4th Street
+4D,4C,100,south,S.4th Street
+4D,4J,100,north,S.4th Street
+4D,5D,100,east,S.4th Street
+5D,4D,100,west,E.Daniel Street
+4J,4D,100,south,S.4th Street
+4J,4G,120,south,S.4th Street
+4G,4J,120,north,S.4th Street
+4G,5G,100,east,E.Green Street
+5G,4G,100,west,E.Green Street
