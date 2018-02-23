@@ -13,7 +13,7 @@ Output:
 ![out_03](https://user-images.githubusercontent.com/31773426/36620595-704faca0-18b9-11e8-9643-a61f30992509.png)
 
 
-** Artwork
+## Artwork
 
 ![art](https://user-images.githubusercontent.com/31773426/36620870-c5970f90-18ba-11e8-8cad-b292da93bdf2.png)
 
