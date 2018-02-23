@@ -1,5 +1,5 @@
-## Assignment 2
-## Tejveer Singh and Niteesh Kanungo
+
+## Tejveer Singh
 from collections import Counter
 from pygeodesy import ellipsoidalVincenty as ev
 
