@@ -1,19 +1,19 @@
 
 ##Compare Major Stock Tickers of US Market
 
-1. Uses	these	representative	major	stock	indexes:
+## Uses these	representative	major	stock	indexes:
 
-a. NASDAQ	Composite:	Yahoo!	ticker:	“^IXIC”
+  a. NASDAQ	Composite:	Yahoo!	ticker:	“^IXIC”
 
-b. NYSE	Composite:	Yahoo!	ticker:	“^NYA”
+  b. NYSE	Composite:	Yahoo!	ticker:	“^NYA ”
 
-c. Dow	Jones	Industrial	Average:	Yahoo!	ticker:	“^DJI”
+  c. Dow	Jones	Industrial	Average:	Yahoo!	ticker:	“^DJI”
 
-d. S&P	500:	Yahoo!	ticker:	“^GSPC”
+  d. S&P	500:	Yahoo!	ticker:	“^GSPC”
 
-e. 'Shanghai	Composite':	'000001.SS'
+  e. 'Shanghai	Composite':	'000001.SS'
 
-f. Euro	STOXX	50:	Yahoo!	ticker:	“^STOXX50E”
+  f. Euro	STOXX	50:	Yahoo!	ticker:	“^STOXX50E”
 
 2. Ask	the	user	to	type	in a	list	of	any other individual stock	tickers.		For	example,	they	
 might	enter	“IBM,	MSFT,	ORCL,	CSCO,	XOM”.
