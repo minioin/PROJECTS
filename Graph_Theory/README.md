@@ -1,4 +1,11 @@
 
+## Idea: 
+Imagine	we’re	developing	a	custom	navigation	app	that	will	help	guide	a	self-driving	van
+between	various	campus	buildings	to automate campus	mail	delivery.		Your	part	of	the	system	
+is	only	concerned	with	determining	a	“best”	route	for	the	van	to	take,	given	the	knowledge	
+your	program	has	about	(some	of)	the	campus	buildings	and	the	roads	around	them. At	this	
+point	we’re	designing	and	testing	a	prototype,	so	it	thankfully	doesn’t	need	the	entire	campus	
+map	and	roads	yet.		
 
 ## Team Member
 Friday5: Xinhe P., Liri F., Tejveer S., Gopikrishnan R
@@ -10,7 +17,10 @@ The details of tasks allocation please check the file 'Tasks Checker.xlsx'.
 * Tejveer singh:      Formulated the idea of reading the edge list from networkX library inbuilt function, node info gathering; drawing map; created nodes building function ; doctest building; Final test.
 * Gopikrishnan R: nodes info gathering; drawing map; nodes building.
 
-##Output
+## Output
+
+<img width="423" alt="2capture" src="https://user-images.githubusercontent.com/31773426/36618920-8ea7b2d0-18b2-11e8-9c4b-be3c4ef25c9e.PNG">
+
 
 
 
