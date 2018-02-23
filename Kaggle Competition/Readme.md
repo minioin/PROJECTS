@@ -38,5 +38,6 @@ Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
 
 ## Output
+<img width="127" alt="99capture" src="https://user-images.githubusercontent.com/31773426/36619818-d28edffc-18b5-11e8-82e6-7a92fc0bc253.PNG">
 
 
