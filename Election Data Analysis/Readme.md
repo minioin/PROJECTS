@@ -1,10 +1,16 @@
 Single-file queries:
-List all individuals who donated a TOTAL of over 100,000 dollars. Show name, city, state, employer, occupation, and total amount. [Tip: You must groupby name+city+state or by name+zipcode]
-List top 10 cities by total individual donations. Try creating a visual barchart with matplotlib.
-
 
 Data Set: Federal Elections Commission
 http://classic.fec.gov/finance/disclosure/ftpdet.shtml files for download and the metadata.
+
+
+List all individuals who donated a TOTAL of over 100,000 dollars. Show name, city, state, employer, occupation, and total amount. [Tip: You must groupby name+city+state or by name+zipcode]
+
+List top 10 cities by total individual donations. Try creating a visual barchart with matplotlib.
+
+<img width="473" alt="capture" src="https://user-images.githubusercontent.com/31773426/36612930-92a79c3e-189d-11e8-85c8-ee2fa2fd0abc.PNG">
+
+
 
 
 Multi-file queries (needing merge or join). Some of these are good ways to see corruption in action:
