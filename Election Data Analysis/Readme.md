@@ -13,6 +13,8 @@ List top 10 cities by total individual donations. Try creating a visual barchart
 <img width="459" alt="capture_1" src="https://user-images.githubusercontent.com/31773426/36613094-1016267c-189e-11e8-95f7-9a2336d1029f.PNG">
 
 
+List the top 5 organisation which donated the maximum amount. ORG = Organization (not a committee and not a person)
+
 
 
 
