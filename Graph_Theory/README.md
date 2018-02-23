@@ -1,4 +1,4 @@
-# A6-Friday5-IS590PR
+
 
 ## Team Member
 Friday5: Xinhe P., Liri F., Tejveer S., Gopikrishnan R
@@ -7,8 +7,12 @@ Friday5: Xinhe P., Liri F., Tejveer S., Gopikrishnan R
 The details of tasks allocation please check the file 'Tasks Checker.xlsx'.
 * Xinhe P:        nodes info gathering; drawing map; edges building; Class structure construction; few functions building; Final test.
 * Liri F:         nodes info gathering; drawing map; edges building; Build shortest_path_output() function and input_request() function; docstring test building; Final test.
-* Tejveer S:      Formulated the idea of reading the edge list from networkX library inbuilt function, node info gathering; drawing map; created nodes building function ; doctest building; Final test.
+* Tejveer singh:      Formulated the idea of reading the edge list from networkX library inbuilt function, node info gathering; drawing map; created nodes building function ; doctest building; Final test.
 * Gopikrishnan R: nodes info gathering; drawing map; nodes building.
+
+##Output
+
+
 
 ## Execute Instruction
 ### Main Code:
