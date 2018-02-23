@@ -10,6 +10,9 @@ List top 10 cities by total individual donations. Try creating a visual barchart
 
 <img width="473" alt="capture" src="https://user-images.githubusercontent.com/31773426/36612930-92a79c3e-189d-11e8-85c8-ee2fa2fd0abc.PNG">
 
+<img width="459" alt="capture_1" src="https://user-images.githubusercontent.com/31773426/36613094-1016267c-189e-11e8-95f7-9a2336d1029f.PNG">
+
+
 
 
 
