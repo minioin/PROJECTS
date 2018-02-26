@@ -1,4 +1,8 @@
-Please refer to the below link for detailed notes:
+
+
+Idea:
+->Playing with Pixels of images with PNG format.
+
 
 https://courses.engr.illinois.edu/cs225/sp2018/mps/1/
 
