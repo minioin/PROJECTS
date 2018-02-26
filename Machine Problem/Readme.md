@@ -1,7 +1,5 @@
 
-## For Details Please refer to the below link:
-
-https://courses.engr.illinois.edu/cs225/sp2018/mps/2/
+->Creating the Sticker Sheet by manipulating the pixels of various images.
 
 ## Output:
 
